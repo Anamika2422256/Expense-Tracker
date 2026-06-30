@@ -1,8 +1,3 @@
-// ============================================================
-// FILE: backend/controllers/categoryController.js
-// OWNER: Member 2 (Backend Dev)
-// RESPONSIBILITY: CRUD for user-defined categories
-// ============================================================
 
 import Category from "../models/Category.js"; // Note the explicit .js extension
 
