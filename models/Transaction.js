@@ -1,8 +1,3 @@
-// ============================================================
-// FILE: backend/models/Transaction.js
-// OWNER: Member 2 (Backend Dev)
-// RESPONSIBILITY: Mongoose schema & model for transactions
-// ============================================================
 
 import mongoose from "mongoose";
 
