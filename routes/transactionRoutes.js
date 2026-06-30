@@ -1,8 +1,4 @@
-// ============================================================
-// FILE: backend/routes/transactionRoutes.js
-// OWNER: Member 2 (Backend Dev)
-// RESPONSIBILITY: Route definitions for transaction CRUD
-// ============================================================
+
 
 import express from "express";
 import requireAuth from "../middleware/requireAuth.js";
