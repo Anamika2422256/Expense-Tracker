@@ -1,8 +1,4 @@
-// ============================================================
-// FILE: backend/controllers/aiController.js
-// OWNER: Member 2 (Backend Dev)
-// RESPONSIBILITY: Gemini API integration for AI financial advice
-// ============================================================
+
 
 import axios from "axios";
 import Transaction from "../models/Transaction.js"; // Note the explicit .js extension
