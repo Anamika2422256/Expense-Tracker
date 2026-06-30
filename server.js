@@ -1,12 +1,4 @@
-// ============================================================
-// FILE: backend/server.js
-// OWNER: Member 1 (Project Lead)
-// RESPONSIBILITY: App entry point, middleware setup, route mounting
-// ============================================================
 
-// ============================================================
-// FILE: backend/server.js
-// ============================================================
 // 1. Force Node.js to use Google DNS to bypass ISP/System SRV blockages
 import dns from "node:dns";
 dns.setServers(["8.8.8.8", "8.8.4.4"]);
