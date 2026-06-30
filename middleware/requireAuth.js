@@ -1,8 +1,4 @@
-// ============================================================
-// FILE: backend/middleware/requireAuth.js
-// OWNER: Member 2 (Backend Dev)
-// RESPONSIBILITY: Protect routes — reject unauthenticated requests
-// ============================================================
+
 
 import { requireAuth } from "@clerk/express";
 
