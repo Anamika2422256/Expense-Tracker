@@ -1,8 +1,4 @@
-// ============================================================
-// FILE: backend/controllers/transactionController.js
-// OWNER: Member 2 (Backend Dev)
-// RESPONSIBILITY: CRUD logic for transactions
-// ============================================================
+
 
 import Transaction from "../models/Transaction.js"; // Note the explicit .js extension
 
