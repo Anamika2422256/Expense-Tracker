@@ -1,8 +1,4 @@
-// ============================================================
-// FILE: backend/models/Category.js
-// OWNER: Member 2 (Backend Dev)
-// RESPONSIBILITY: Mongoose schema & model for custom categories
-// ============================================================
+
 
 import mongoose from "mongoose";
 
