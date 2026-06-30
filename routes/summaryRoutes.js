@@ -1,8 +1,4 @@
-// ============================================================
-// FILE: backend/routes/summaryRoutes.js
-// OWNER: Member 2 (Backend Dev)
-// RESPONSIBILITY: Routes for dashboard summary & chart data
-// ============================================================
+
 
 import express from "express";
 import requireAuth from "../middleware/requireAuth.js";
