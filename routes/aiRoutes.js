@@ -1,7 +1,3 @@
-// ============================================================
-// FILE: backend/routes/aiRoutes.js
-// OWNER: Member 2 (Backend Dev)
-// ============================================================
 
 import express from "express";
 import requireAuth from "../middleware/requireAuth.js";
