@@ -1,8 +1,4 @@
-// ============================================================
-// FILE: backend/config/db.js
-// OWNER: Member 1 (Project Lead)
-// RESPONSIBILITY: MongoDB Atlas connection via Mongoose
-// ============================================================
+
 
 import mongoose from "mongoose";
 
