@@ -5,7 +5,7 @@ import { getCategories, createCategory, deleteCategory } from "../controllers/ca
 
 const router = express.Router();
 
-router.use(requireAuth);
+//router.use(requireAuth);
 router.route("/").get(getCategories).post(createCategory);
 router.route("/:id").delete(deleteCategory);
 
